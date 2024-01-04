@@ -34,6 +34,7 @@ class TV():
 tv1=TV()
 
 tv1.add_volume()
-tv1.add_volume()
+tv1.subtract_volume()
+tv1.subtract_volume()
 
 print(tv1)
